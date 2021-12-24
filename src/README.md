@@ -24,7 +24,7 @@ Some programs
 * To Track Intermediate Representations
 * To Save Settings
 
-## 直下プログラム
+## Analysis Programs
 
 ** Common Features **
 
